@@ -1,3 +1,3 @@
 # SDLC_Flowchart
 
-![SDLC FLOWCHART](sldc.JPG)
+![SDLC FLOWCHART](sdlc.png)
